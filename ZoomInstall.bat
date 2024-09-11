@@ -1,0 +1,1 @@
+msiexec.exe /i "\\fp01\Installers\Zoom_NEWEST\ZoomInstallerFull.msi" /passive /quiet /qn /norestart /lex zoommsi.log zConfig="AU2_EnableAutoUpdate=1" MSIRestartManagerControl=Disable zSSOHost="https://domain.zoom.us"
